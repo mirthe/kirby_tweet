@@ -1,0 +1,14 @@
+{
+    "name": "mirthe/tweet",
+    "description": "This plugin allows you to embed Tweets in your Kirby pages.",
+    "homepage": "https://github.com/mirthe/kirby_tweet",
+    "keywords": ["kirby-plugin", "twitter", "tweet"],
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mirthe Valentijn",
+            "email": "me@Mirthe.org"
+        }
+    ]
+}
