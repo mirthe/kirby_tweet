@@ -1,5 +1,6 @@
 {
     "name": "mirthe/tweet",
+    "version": "1.0",
     "description": "This plugin allows you to embed Tweets in your Kirby pages.",
     "homepage": "https://github.com/mirthe/kirby_tweet",
     "keywords": ["kirby-plugin", "twitter", "tweet"],
